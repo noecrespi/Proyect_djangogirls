@@ -51,3 +51,4 @@ django-admin startproject mysite .
     │        __init__.py
     └───requirements.txt
     ```
+    
